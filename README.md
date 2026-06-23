@@ -20,7 +20,20 @@ Tenho interesse em descobrir cada vez mais sobre o universo da computação, exp
 Busco oportunidades para aprender, evoluir e colaborar em projetos que me permitam crescer como profissional da área.
 
 ---
+## 🔗 Conecte-se comigo
 
+<div align="center">
+
+<a href="SEU_LINKEDIN_AQUI">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="SEU_LINK_DO_REPOSITORIO_2_ANO_AQUI">
+<img src="https://img.shields.io/badge/GitHub-2º%20Ano%20Engenharia-black?style=for-the-badge&logo=github" />
+</a>
+---
+
+</div>
 ## 🌱 Atualmente
 
 - 📚 Estudando Engenharia de Computação
