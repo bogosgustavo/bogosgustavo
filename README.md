@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Olá, eu sou Gustavo Bogos dos Santos!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Gustavo+Bogos+dos+Santos!;👋+Hello,+I'm+Gustavo+Bogos+dos+Santos!" />
+
+<br>
 
 ### 🇧🇷 Português | 🇺🇸 [English Version](README_EN.md)
 
