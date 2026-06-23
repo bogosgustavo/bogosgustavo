@@ -20,6 +20,7 @@ Tenho interesse em descobrir cada vez mais sobre o universo da computação, exp
 Busco oportunidades para aprender, evoluir e colaborar em projetos que me permitam crescer como profissional da área.
 
 ---
+
 ## 🔗 Conecte-se comigo
 
 <div align="center">
@@ -33,9 +34,9 @@ Busco oportunidades para aprender, evoluir e colaborar em projetos que me permit
 </a>
 
 </div>
+
 ---
 
-</div>
 ## 🌱 Atualmente
 
 - 📚 Estudando Engenharia de Computação
@@ -81,7 +82,3 @@ Gosto de entender como as coisas funcionam, experimentar novas ideias e descobri
 🎮 Desenvolvimento de jogos
 ⚙️ Engenharia de Software
 🚀 Novas tecnologias
-```
-
----
-
