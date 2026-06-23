@@ -70,8 +70,3 @@ Gosto de entender como as coisas funcionam, experimentar novas ideias e descobri
 
 ---
 
-<div align="center">
-
-### 🚀 Sempre evoluindo, uma linha de código por vez.
-
-</div>
