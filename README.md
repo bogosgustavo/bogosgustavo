@@ -1,6 +1,8 @@
+<div align="center">
+
 # 👋 Olá, eu sou Gustavo Bogos dos Santos!
 
-<div align="center">
+### 🇧🇷 Português | 🇺🇸 [English Version](README_EN.md)
 
 🚀 **Estudante de Engenharia de Computação | UEPG**  
 💻 Explorando o mundo da tecnologia e desenvolvimento
