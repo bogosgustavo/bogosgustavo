@@ -70,8 +70,3 @@ I enjoy understanding how things work, experimenting with ideas, and discovering
 
 ---
 
-<div align="center">
-
-### 🚀 Always improving, one line of code at a time.
-
-</div>
