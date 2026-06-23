@@ -15,7 +15,7 @@
 
 I'm **Gustavo Bogos dos Santos**, a **2nd-year Computer Engineering student at the State University of Ponta Grossa (UEPG)**.
 
-I'm interested in discovering more about the world of computing, exploring new technologies, programming, and creating innovative solutions.
+Interested in discovering more about the world of computing, exploring new technologies, programming, and creating innovative solutions.
 
 I'm looking for opportunities to learn, grow, and collaborate on projects that allow me to improve as a technology professional.
 
