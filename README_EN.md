@@ -59,7 +59,12 @@ I believe great solutions come from collaboration and sharing knowledge.
 
 ## 🎮 Hobbies & Interests
 
-Besides programming and technology, I enjoy exploring the history of gaming and older technologies.
+Besides programming and technology, I enjoy reading sci-fi and fantasy books and exploring the history of gaming and older technologies.
+
+📚 **Science Fiction & Fantasy Books**  
+I enjoy reading science fiction and fantasy stories, exploring imaginary worlds, new ideas, and creative concepts.
+
+I have a special interest in the book **Ready Player One**.
 
 🕹️ **Retro Gaming & Classic Consoles**  
 I have a strong interest in consoles and technologies from the 2000s era, exploring their evolution, hardware, and how they work.
