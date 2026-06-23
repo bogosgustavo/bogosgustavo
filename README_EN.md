@@ -20,7 +20,21 @@ I'm interested in discovering more about the world of computing, exploring new t
 I'm looking for opportunities to learn, grow, and collaborate on projects that allow me to improve as a technology professional.
 
 ---
+## 🔗 Connect with me
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gustavo-bogos/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/bogosgustavo/2-ano">
+<img src="https://img.shields.io/badge/GitHub-2nd%20Year%20Computer%20Engineering-black?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
 ## 🌱 Currently
 
 - 📚 Studying Computer Engineering
