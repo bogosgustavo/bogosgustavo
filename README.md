@@ -61,7 +61,12 @@ Acredito que boas soluções surgem da colaboração e troca de conhecimentos.
 
 ## 🎮 Hobbies & Interesses
 
-Além da programação e tecnologia, gosto de explorar a história dos videogames e tecnologias antigas.
+Além da programação e tecnologia, gosto de ler livros de ficção científica e fantasia, explorar a história dos videogames e tecnologias antigas.
+
+📚 **Livros de Ficção Científica e Fantasia**  
+Gosto de ler histórias de ficção científica e fantasia, explorando mundos imaginários, novas ideias e conceitos criativos.
+
+Tenho um interesse especial pelo livro **Jogador Nº 1**.
 
 🕹️ **Jogos Retrô e Consoles Clássicos**  
 Tenho interesse por consoles e tecnologias da época dos anos 2000, explorando sua evolução, hardware e funcionamento.
