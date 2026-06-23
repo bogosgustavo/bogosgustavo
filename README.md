@@ -43,6 +43,21 @@ Acredito que boas soluções surgem da colaboração e troca de conhecimentos.
 
 ---
 
+## 🎮 Hobbies & Interesses
+
+Além da programação e tecnologia, gosto de explorar a história dos videogames e tecnologias antigas.
+
+🕹️ **Jogos Retrô e Consoles Clássicos**  
+Tenho interesse por consoles e tecnologias da época dos anos 2000, explorando sua evolução, hardware e funcionamento.
+
+⚙️ **Modding de Consoles**  
+Tenho um interesse especial em **modding de Xbox 360**, estudando personalização, possibilidades do hardware e os aspectos técnicos desses sistemas.
+
+🔍 **Exploração Tecnológica**  
+Gosto de entender como as coisas funcionam, experimentar novas ideias e descobrir como tecnologias antigas e novas são construídas.
+
+---
+
 ## 🛠️ Tecnologias e interesses
 
 ```text
@@ -51,3 +66,12 @@ Acredito que boas soluções surgem da colaboração e troca de conhecimentos.
 🎮 Desenvolvimento de jogos
 ⚙️ Engenharia de Software
 🚀 Novas tecnologias
+```
+
+---
+
+<div align="center">
+
+### 🚀 Sempre evoluindo, uma linha de código por vez.
+
+</div>
