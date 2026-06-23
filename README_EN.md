@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Hello, I'm Gustavo Bogos dos Santos!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=900&lines=👋+Hello,+I'm+Gustavo+Bogos+dos+Santos!;👋+Olá,+eu+sou+Gustavo+Bogos+dos+Santos!" />
 
-### 🇧🇷 [Portuguese Version](README.md) | 🇺🇸 English
+<br>
+
+### 🇺🇸 English | 🇧🇷 [Portuguese Version](README.md)
 
 🚀 **Computer Engineering Student | UEPG**  
 💻 Exploring the world of technology and software development
