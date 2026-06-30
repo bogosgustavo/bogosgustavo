@@ -6,7 +6,7 @@
 
 ### 🇺🇸 English | 🇧🇷 [Portuguese Version](README.md)
 
-🚀 **Computer Engineering Student | UEPG**  
+🚀 **Computer Engineering Student | UEPG**
 💻 Exploring the world of technology and software development
 
 </div>
@@ -22,9 +22,14 @@ I'm interested in discovering more about the world of computing, exploring new t
 I'm looking for opportunities to learn, grow, and collaborate on projects that allow me to improve as a technology professional.
 
 ---
+
 ## 🔗 Connect with me
 
 <div align="center">
+
+<a href="mailto:bogosgustavo.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
 
 <a href="https://www.linkedin.com/in/gustavo-bogos/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
@@ -37,24 +42,25 @@ I'm looking for opportunities to learn, grow, and collaborate on projects that a
 </div>
 
 ---
+
 ## 🌱 Currently
 
-- 📚 Studying Computer Engineering
-- 💡 Learning more about software development and technology
-- 🔎 Looking for opportunities to expand my knowledge
-- 🤝 Enjoy working in teams and building ideas together
+* 📚 Studying Computer Engineering
+* 💡 Learning more about software development and technology
+* 🔎 Looking for opportunities to expand my knowledge
+* 🤝 Enjoy working in teams and building ideas together
 
 ---
 
 ## ⭐ My Strengths
 
-🎨 **Creativity**  
+🎨 **Creativity**
 I enjoy creating new ideas and finding different approaches to solve problems.
 
-⚡ **Proactivity**  
+⚡ **Proactivity**
 I like taking initiative, learning new things, and contributing to projects.
 
-🤝 **Teamwork**  
+🤝 **Teamwork**
 I believe great solutions come from collaboration and sharing knowledge.
 
 ---
@@ -63,18 +69,18 @@ I believe great solutions come from collaboration and sharing knowledge.
 
 Besides programming and technology, I enjoy reading sci-fi and fantasy books and exploring the history of gaming and older technologies.
 
-📚 **Science Fiction & Fantasy Books**  
+📚 **Science Fiction & Fantasy Books**
 I enjoy reading science fiction and fantasy stories, exploring imaginary worlds, new ideas, and creative concepts.
 
 I have a special interest in the book **Ready Player One**.
 
-🕹️ **Retro Gaming & Classic Consoles**  
+🕹️ **Retro Gaming & Classic Consoles**
 I have a strong interest in consoles and technologies from the 2000s era, exploring their evolution, hardware, and how they work.
 
-⚙️ **Console Modding**  
+⚙️ **Console Modding**
 I'm especially interested in **Xbox 360 modding**, exploring customization, hardware capabilities, and the technical aspects behind these systems.
 
-🔍 **Technology Exploration**  
+🔍 **Technology Exploration**
 I enjoy understanding how things work, experimenting with ideas, and discovering how both old and new technologies are built.
 
 ---
@@ -88,6 +94,3 @@ I enjoy understanding how things work, experimenting with ideas, and discovering
 ⚙️ Software Engineering
 🚀 New Technologies
 ```
-
----
-
