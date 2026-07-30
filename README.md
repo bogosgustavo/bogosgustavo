@@ -23,7 +23,6 @@ Também gosto de hardware, consoles antigos, modding, desenho, música e tecnolo
 
 * 📚 Estudando Engenharia de Computação
 * 💡 Pesquisando sobre diferentes áreas na computação para achar onde me encaixo
-* 🤝 Gosto de trabalhar em equipe e construir ideias juntos
 
 ---
 
@@ -34,6 +33,7 @@ Também gosto de hardware, consoles antigos, modding, desenho, música e tecnolo
 ⚡ **Proatividade**
 
 🤝 **Trabalho em equipe**
+
 ---
 ## 🔗 Conecte-se comigo
 
