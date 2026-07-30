@@ -22,7 +22,7 @@ Também gosto de hardware, consoles antigos, modding, desenho, música e tecnolo
 ## 🌱 Atualmente
 
 * 📚 Estudando Engenharia de Computação
-* 💡 Pesquisando sobre diferentes áreas na computação para achar onde me encaixo
+* 💡 Pesquisando sobre diferentes áreas na computação para achar onde quero me especializar
 
 ---
 
